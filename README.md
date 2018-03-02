@@ -1,6 +1,6 @@
 # MY PROJECTS ON UDACITY
 
-the projects I made while doing Front-End Web Developer Nanodegree Program.
+> the projects I made while doing Front-End Web Developer Nanodegree Program.
 
 # Projects
 
