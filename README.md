@@ -16,7 +16,6 @@ __Front-End Web Developer Nanodegree Program__
 | P3 | **Memory Game** | coming ... | :question: | Apr 2, 2018 |
 | P4 | **Classic Arcade Game Clone** | coming ... | :question: | May 7, 2018 |
 | P5 | **Feed Reader Testing** | coming ... | :question: | May 19, 2018 |
-
 | P6 | **Restaurant Reviews** | coming ... | :question: | Jul 3, 2018 |
 | P7 | **My Reads: A Book Tracking App** | coming ... | :question: | Jul 23, 2018 |
 | P8 | **Neighborhood Map** | coming ... | :question: | August 15, 2018 |
