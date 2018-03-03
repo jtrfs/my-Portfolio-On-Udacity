@@ -1,6 +1,6 @@
 
 # PROJECTS ON <img src="https://github.com/jtrfs/my-Portfolio-On-Udacity/blob/master/udacity_U_logo.svg" width="50" height="50" /> UDACITY
-__Front-End Developer Nanodegree Program__
+__Front-End Web Developer Nanodegree Program__
 
 *the projects I have made or I am working on or I am going to finish as part of the Front-End Web Developer Nanodegree Program*
 
@@ -16,11 +16,13 @@ __Front-End Developer Nanodegree Program__
 | P3 | **Memory Game** | coming ... | :question: | Apr 2, 2018 |
 | P4 | **Classic Arcade Game Clone** | coming ... | :question: | May 7, 2018 |
 | P5 | **Feed Reader Testing** | coming ... | :question: | May 19, 2018 |
+
 | P6 | **Restaurant Reviews** | coming ... | :question: | Jul 3, 2018 |
 | P7 | **My Reads: A Book Tracking App** | coming ... | :question: | Jul 23, 2018 |
 | P8 | **Neighborhood Map** | coming ... | :question: | August 15, 2018 |
 
 ## :large_blue_circle: Projects - Phase I (3 months): Nov 6, 2017 - Feb 6. 2018
+__Google Developer Challenge Scholarship: Front-End Web Dev__
 
 |Project # | Project Name | Repo | Status |
 | -------- | ------------ | ------ | ---- |
