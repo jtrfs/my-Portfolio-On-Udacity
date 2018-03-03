@@ -7,7 +7,7 @@ __Front-End Developer Nanodegree Program__
 ## :large_blue_circle: Projects deadlines - Phase II (6 months): Feb 15 - Aug 15, 2018
 
 *Students have **6 months to complete** the Nanodegree program, the deadline for completion is `August 15, 2018`. Their program has a finite start and end date that is based on when they were enrolled in the course (`February 15th`).*\
-*Only the final deadline is obligatory (`August 15`). All the other project deadlines **are not mandatory, but highly recommended**. The "soft deadlines" are there to help you organise your time, as they are based on statistical projections that take into account the average amount of time needed for each project. That’s why they are very much recommended.*
+*Only the **final deadline is obligatory** (`August 15`). All the other project deadlines **are not mandatory, but highly recommended**. The "soft deadlines" are there to help you organise your time, as they are based on statistical projections that take into account the average amount of time needed for each project. That’s why they are very much recommended.*
 
 |Project # | Project Name | Repo | Status | Deadline |
 | -------- | ------------ | ---- | -------| -------- |
