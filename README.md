@@ -1,6 +1,6 @@
 # PROJECTS ON UDACITY - Front-End Developer Nanodegree
 
-the projects I have made or I am working on or I am going to finish as part of the Front-End Web Developer Nanodegree Program.
+*the projects I have made or I am working on or I am going to finish as part of the Front-End Web Developer Nanodegree Program*
 
 ## :large_blue_circle: Project deadlines - Phase II (6 months) - Feb 15 through Aug 15, 2018
 
