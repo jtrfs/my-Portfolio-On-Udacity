@@ -1,4 +1,6 @@
-# PROJECTS ON UDACITY - Front-End Developer Nanodegree
+
+# PROJECTS ON <img src="https://github.com/jtrfs/my-Portfolio-On-Udacity/blob/master/udacity_U_logo.svg" width="50" height="50" /> UDACITY
+__Front-End Developer Nanodegree Program__
 
 *the projects I have made or I am working on or I am going to finish as part of the Front-End Web Developer Nanodegree Program*
 
