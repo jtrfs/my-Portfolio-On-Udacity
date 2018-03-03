@@ -7,9 +7,8 @@
 ## Table with deadlines
 
 |Project # | Project Name | Deadline |
------------------------------------
+---------- | ------------- | ---------
 | P1 | Animal Trading Cards | 27 Feb 2018 |
------------------------------------------------
 | P2 |Build a Porfolio Site | 16 March 2018 |
 
 # Projects :globe_with_meridians:
