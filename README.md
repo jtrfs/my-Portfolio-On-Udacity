@@ -1,7 +1,7 @@
-# MY PROJECTS ON UDACITY
+# MY PROJECTS ON UDACITY - Front-End Developer Nanodegree
 **the projects I have made or I am making or I am going to make as a part of the Front-End Web Developer Nanodegree Program - Phases I and II.**
 
-## Project deadlines for **Front-End Developer Nanodegree - Phase II (6 months) - Feb 15 through Aug 15, 2018** 
+## Project deadlines - Phase II (6 months) - Feb 15 through Aug 15, 2018*
 
 *Students have **6 months to complete** the Nanodegree program, the deadline for completion is `August 15, 2018`. Their program has a finite start and end date that is based on when they were enrolled in the course (`February 15th`).*\
 *Only the final deadline is obligatory (`August 15`). All the other project deadlines **are not mandatory, but highly recommended**. The "soft deadlines" are there to help you organise your time, as they are based on statistical projections that take into account the average amount of time needed for each project. That’s why they are very much recommended.*
@@ -19,12 +19,8 @@
 
 ## Projects - Phase I (3 months)
 
-1. The project: [MOCKUP TO ARTCLE](https://jtrfs.github.io/mockup-to-article/) or its repo: https://github.com/jtrfs/mockup-to-article
-2. The project: [PIXEL ART MAKER](https://jtrfs.github.io/pixel-art-maker/) or its repo: https://github.com/jtrfs/pixel-art-maker
-3. The project: [ANIMAL TRADING CARD - chameleon](https://jtrfs.github.io/animal-trading-card/) or its repo: https://github.com/jtrfs/animal-trading-card
-
 |Project # | Project Name | Repo |
 | ---------- | ------------- | --------- |
 | P2 | **[Mockup to Article](https://jtrfs.github.io/mockup-to-article/)** | [repo](https://github.com/jtrfs/mockup-to-article) |
-| P1 | **[Animal Trading Cards](https://jtrfs.github.io/animal-trading-card/)** | [repo]() |
-| P3 | **[Pixel Art Maker](https://jtrfs.github.io/pixel-art-maker/)** | [repo]() |
+| P1 | **[Animal Trading Cards](https://jtrfs.github.io/animal-trading-card/)** | [repo](https://github.com/jtrfs/animal-trading-card) |
+| P3 | **[Pixel Art Maker](https://jtrfs.github.io/pixel-art-maker/)** | [repo](https://github.com/jtrfs/pixel-art-maker) |
