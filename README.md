@@ -1,6 +1,5 @@
 # MY PROJECTS ON UDACITY
-
-    the projects I made as a part of the Front-End Web Developer Nanodegree Program.
+**the projects I made as a part of the Front-End Web Developer Nanodegree Program.**
 
 # Projects :globe_with_meridians:
 
