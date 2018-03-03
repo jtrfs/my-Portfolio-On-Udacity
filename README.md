@@ -1,7 +1,7 @@
 # MY PROJECTS ON UDACITY
 **the projects I made as a part of the Front-End Web Developer Nanodegree Program.**
 
-## DEADLINES:
+## DEADLINES for Phase II:
 ![projects' deadlines](https://github.com/jtrfs/my-Portfolio-On-Udacity/blob/master/Deadlines_Udacity.png?raw=true)
 
 # Projects :globe_with_meridians:
