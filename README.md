@@ -4,12 +4,18 @@
 ## DEADLINES for Phase II:
 ![projects' deadlines](https://github.com/jtrfs/my-Portfolio-On-Udacity/blob/master/Deadlines_Udacity.png?raw=true)
 
-## Table with deadlines
+## Project deadlines for **Front-End Developer Nanodegree**
 
 |Project # | Project Name | Deadline |
 ---------- | ------------- | ---------
-| P1 | Animal Trading Cards | 27 Feb 2018 |
-| P2 |Build a Porfolio Site | 16 March 2018 |
+| P1 | Animal Trading Cards | Feb 27, 2018 |
+| P2 | Build a Porfolio Site | March 16, 2018 |
+| P3 | Memory Game | Apr 2, 2018 |
+| P4 | Classic Arcade Game Clone | May 7, 2018 |
+| P5 | Feed Reader Testing | May 19, 2018 |
+| P6 | Restaurant Reviews | Jul 3, 2018 |
+| P7 | My Reads: A Book Tracking App | Jul 23, 2018 |
+| P8 | Neighborhood Map | August 15, 2018 |
 
 # Projects :globe_with_meridians:
 
