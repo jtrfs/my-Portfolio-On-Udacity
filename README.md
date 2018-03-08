@@ -25,7 +25,7 @@ __Front-End Web Developer Nanodegree Program__
 :question: - *The project has been submitted for evaluation*<br>
 :heavy_check_mark: - *The project has been approved*
 
-## Projects - Phase I (3 months): Nov 6, 2017 - Feb 6. 2018
+## Projects - Phase I (3 months): Nov 6, 2017 - Feb 6, 2018
 __Google Developer Challenge Scholarship: Front-End Web Dev__
 
 |Project # | Project Name | Repo | Status |
