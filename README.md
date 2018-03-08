@@ -12,13 +12,18 @@ __Front-End Web Developer Nanodegree Program__
 |Project # | Project Name | Repo | Status | Deadline |
 | -------- | ------------ | ---- | -------| -------- |
 | P1 | **[Animal Trading Cards](https://jtrfs.github.io/animal-trading-card/)** | [P1 repo](https://github.com/jtrfs/animal-trading-card) | :heavy_check_mark: | Feb 27, 2018 |
-| P2 | **[Build a Porfolio Site](https://jtrfs.github.io/Build-a-Portfolio-Site/)** | [P2 repo](https://github.com/jtrfs/Build-a-Portfolio-Site)| :heavy_check_mark: |Mar 16, 2018 |
-| P3 | **Memory Game** | coming ... | :question: | Apr 2, 2018 |
-| P4 | **Classic Arcade Game Clone** | coming ... | :question: | May 7, 2018 |
-| P5 | **Feed Reader Testing** | coming ... | :question: | May 19, 2018 |
-| P6 | **Restaurant Reviews** | coming ... | :question: | Jul 3, 2018 |
-| P7 | **My Reads: A Book Tracking App** | coming ... | :question: | Jul 23, 2018 |
-| P8 | **Neighborhood Map** | coming ... | :question: | August 15, 2018 |
+| P2 | **[Build a Porfolio Site](https://jtrfs.github.io/Build-a-Portfolio-Site/)** | [P2 repo](https://github.com/jtrfs/Build-a-Portfolio-Site)| :question: |Mar 16, 2018 |
+| P3 | **Memory Game** | coming ... | :heavy_minus_sign: | Apr 2, 2018 |
+| P4 | **Classic Arcade Game Clone** | coming ... | :heavy_minus_sign: | May 7, 2018 |
+| P5 | **Feed Reader Testing** | coming ... | :heavy_minus_sign: | May 19, 2018 |
+| P6 | **Restaurant Reviews** | coming ... | :heavy_minus_sign: | Jul 3, 2018 |
+| P7 | **My Reads: A Book Tracking App** | coming ... | :heavy_minus_sign: | Jul 23, 2018 |
+| P8 | **Neighborhood Map** | coming ... | :heavy_minus_sign: | August 15, 2018 |
+
+:heavy_minus_sign: - *I haven't started working on the project*<br>
+:construction: - *I've been workin hard at the project*<br>
+:question: - *The project has been submitted for evaluation*<br>
+:heavy_check_mark: - *The project has been approved*
 
 ## Projects - Phase I (3 months): Nov 6, 2017 - Feb 6. 2018
 __Google Developer Challenge Scholarship: Front-End Web Dev__
