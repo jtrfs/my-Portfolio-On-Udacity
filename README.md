@@ -12,7 +12,7 @@ __Front-End Web Developer Nanodegree Program__
 |Project # | Project Name | Repo | Status | Deadline |
 | -------- | ------------ | ---- | -------| -------- |
 | P1 | **[Animal Trading Cards](https://jtrfs.github.io/animal-trading-card/)** | [P1 repo](https://github.com/jtrfs/animal-trading-card) | :heavy_check_mark: | Feb 27, 2018 |
-| P2 | **[Build a Porfolio Site](https://jtrfs.github.io/Build-a-Portfolio-Site/)** | [P2 repo](https://github.com/jtrfs/Build-a-Portfolio-Site)| :question: |Mar 16, 2018 |
+| P2 | **[Build a Porfolio Site](https://jtrfs.github.io/build-a-portfolio-site/)** | [P2 repo](https://github.com/jtrfs/Build-a-Portfolio-Site)| :question: |Mar 16, 2018 |
 | P3 | **Memory Game** | coming ... | :heavy_minus_sign: | Apr 2, 2018 |
 | P4 | **Classic Arcade Game Clone** | coming ... | :heavy_minus_sign: | May 7, 2018 |
 | P5 | **Feed Reader Testing** | coming ... | :heavy_minus_sign: | May 19, 2018 |
