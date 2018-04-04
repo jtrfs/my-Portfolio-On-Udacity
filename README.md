@@ -13,7 +13,7 @@ __Front-End Web Developer Nanodegree Program__
 | -------- | ------------ | ---- | -------| ------ | ------ |
 | P1 | **[Animal Trading Cards](https://jtrfs.github.io/animal-trading-card/)** | [P1 repo](https://github.com/jtrfs/animal-trading-card) | :white_check_mark: | [view](https://review.udacity.com/#!/reviews/1032433) | Feb 27, 2018 |
 | P2 | **[Build a Porfolio Site](https://jtrfs.github.io/build-a-portfolio-site/)** | [P2 repo](https://github.com/jtrfs/Build-a-Portfolio-Site)| :white_check_mark: | [view](https://review.udacity.com/#!/reviews/1082655) | Mar 16, 2018 |
-| P3 | **[Memory Game](https://jtrfs.github.io/memory-game/)** | [P3 repo](https://github.com/jtrfs/memory-game) | :question: |  | Apr 2, 2018 |
+| P3 | **[Memory Game](https://jtrfs.github.io/memory-game/)** | [P3 repo](https://github.com/jtrfs/memory-game) | :white_check_mark: | [view](https://review.udacity.com/#!/reviews/1136250) | Apr 2, 2018 |
 | P4 | **Classic Arcade Game Clone** | coming ... | :heavy_minus_sign: |  | May 7, 2018 |
 | P5 | **Feed Reader Testing** | coming ... | :heavy_minus_sign: |  | May 19, 2018 |
 | P6 | **Restaurant Reviews** | coming ... | :heavy_minus_sign: |  | Jul 3, 2018 |
